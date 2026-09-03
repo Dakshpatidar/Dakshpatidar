@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on machine learning projects in **fraud detection, healthcare prediction, and NLP**
 - 🌱 I'm currently strengthening my skills in **Python, ML algorithms, and data analysis**
 - 💡 I enjoy turning messy, real-world data into models that actually work
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **dakshpatidar254.com**
 - ⚡ Fun fact: I like breaking models before I fix them
 
 ---
