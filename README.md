@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A63D2&center=true&vCenter=true&width=500&lines= Building+ML+models+that+solve+real+problems;Fraud+Detection+%7C+Healthcare+ML+%7C+NLP;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A63D2&center=true&vCenter=true&width=500&lines=Building+ML+models+that+solve+real+problems;Fraud+Detection+%7C+Healthcare+ML+%7C+NLP;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 ---
